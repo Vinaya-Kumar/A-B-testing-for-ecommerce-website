@@ -4,7 +4,7 @@ Here, I've used a database providing details on the conversion rate of two group
 control group that holds the old interface), on an e-commerce platform from 1st to 24th January, 2017.
 The aim was to decide whether the e-commerce website should keep the old interface or change it to the new one.
 
-![working](https://github.com/Monica-Kulkarni/A-B-testing-e-commerce-website/blob/master/working.png)
+![working](https://github.com/Vinaya-Kumar/A-B-testing-for-ecommerce-website/blob/main/working.png)
 
 
 I analyzed user conversion rate vs. their landing_pages. Both A/B testing and logistic regression were employed to answer the same question.
